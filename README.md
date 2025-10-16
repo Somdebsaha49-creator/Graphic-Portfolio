@@ -7,7 +7,7 @@ Created using Canva.
 
 1. **Posters** – Promotional and artistic posters.  
 2. **Book Covers** – Covers designed for various books.
-3. **Magazine Front Covers** – Covers designed for various magazine.
+3. **Magazine Front Covers** – Covers designed for various magazines.
 
 ## Tools Used
 
